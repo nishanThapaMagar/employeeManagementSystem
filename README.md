@@ -1,6 +1,6 @@
-# hr_ms_laravel_9
+# employeeManagementSystem
 
-hr_ms_laravel_9
+employeeManagementSystem
 
 ## Getting started
 
